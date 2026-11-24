@@ -1,0 +1,20 @@
+{
+  "short_name": "MyDiary",
+  "name": "MyDiary – Personal Journal",
+  "icons": [
+    {
+      "src": "/favicon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/favicon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FAF6EF",
+  "theme_color": "#8C7BB5",
+  "display": "standalone"
+}
